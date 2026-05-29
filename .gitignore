@@ -1,0 +1,6 @@
+venv/
+cache/
+logs/
+staticfiles/
+config.py
+db.sqlite3
